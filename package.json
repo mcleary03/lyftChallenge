@@ -1,0 +1,16 @@
+{
+  "name": "lyft",
+  "version": "1.0.0",
+  "description": "simple node app for Lyft technical sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Cleary",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "inquirer": "^5.0.1",
+    "node-fetch": "^1.7.3"
+  }
+}

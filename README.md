@@ -20,7 +20,7 @@ This is a simple node application that will ask you for two numbers and respond 
    + If the input is valid, the results will print to the console
    + If the input is invalid, you will be asked to try again
 
-```console
+```node
 ? Enter the first number
 > 3
 ? Enter the second number

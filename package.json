@@ -1,16 +1,17 @@
 {
   "name": "lyft",
   "version": "1.0.0",
-  "description": "simple node app for Lyft technical sample",
+  "description": "Node app for Lyft Technical Sample",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Cleary",
   "license": "ISC",
+  "repository": "https://github.com/mcleary03/lyftChallenge",
   "dependencies": {
     "axios": "^0.17.1",
-    "inquirer": "^5.0.1",
-    "node-fetch": "^1.7.3"
+    "inquirer": "^5.0.1"
   }
 }

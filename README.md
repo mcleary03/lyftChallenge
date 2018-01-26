@@ -12,7 +12,7 @@ It is indeed overengineered.
 ## Running the app
  1. Download or clone this repository
  1. Enter `npm install` in the terminal
- 1. Enter `node app.js` to start app
+ 1. Enter `npm start` to start app
   
     *to quit app at any time, press `ctrl + c`*
 

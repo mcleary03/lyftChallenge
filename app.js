@@ -27,8 +27,6 @@ async function getInput() {
   }
 };
 
-// Custom validation because inquirer's built-in function
-//  does not allow me to repeat questions if invalid input
 const validateNumber = n => {
   return n && !isNaN(n); // bool
 };
